@@ -1,4 +1,4 @@
-![Fotoğraf Açıklaması](https://hizliresim.com/tjlib8q)
+[![Image](https://i.hizliresim.com/tjlib8q.png)](https://hizliresim.com/tjlib8q)
 
 # Döviz Çevirici
 
