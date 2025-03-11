@@ -1,5 +1,3 @@
-[![Image](https://imgur.com/a/0uAk475.png)](https://imgur.com/a/0uAk475)
-
 # Döviz Çevirici
 
 Gerçek zamanlı döviz kurlarını kullanarak farklı para birimleri arasında dönüşüm yapmanızı sağlayan basit bir C# Windows Forms uygulaması.
