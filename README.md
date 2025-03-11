@@ -1,4 +1,4 @@
-[![Image](https://i.hizliresim.com/tjlib8q.png)](https://hizliresim.com/tjlib8q)
+[![Image](https://imgur.com/a/0uAk475.png)](https://imgur.com/a/0uAk475)
 
 # Döviz Çevirici
 
