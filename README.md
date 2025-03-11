@@ -1,3 +1,5 @@
+![Fotoğraf Açıklaması](https://hizliresim.com/tjlib8q)
+
 # Döviz Çevirici
 
 Gerçek zamanlı döviz kurlarını kullanarak farklı para birimleri arasında dönüşüm yapmanızı sağlayan basit bir C# Windows Forms uygulaması.
