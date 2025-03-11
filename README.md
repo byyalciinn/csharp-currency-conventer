@@ -16,11 +16,11 @@ Gerçek zamanlı döviz kurlarını kullanarak farklı para birimleri arasında 
 
 ## Nasıl Kullanılır
 
-1. "From" açılır menüsünden kaynak para birimini seçin
-2. "To" açılır menüsünden hedef para birimini seçin
+1. "Çevrilecek Birim" açılır menüsünden kaynak para birimini seçin
+2. "Çevrilen Birim" açılır menüsünden hedef para birimini seçin
 3. Dönüştürmek istediğiniz miktarı girin
-4. "Convert" düğmesine tıklayın
-5. Dönüştürülen miktar "Result" alanında görüntülenecektir
+4. "Çevir" düğmesine tıklayın
+5. Dönüştürülen miktar "Sonuç" alanında görüntülenecektir
 6. Para birimleri arasında hızlı geçiş yapmak için ortadaki değiştirme (swap) simgesine tıklayabilirsiniz
 
 ## API Bilgisi
